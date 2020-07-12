@@ -23,6 +23,7 @@ public class Send {
 		driver = new FirefoxDriver();
 		driver.get(baseUrl);
 		String expectedTitle = "Welcome: Mercury Tours";
+		//India is strong
 		String actualTitle = driver.getTitle();
 		Assert.assertEquals(actualTitle, expectedTitle);
 		/*
