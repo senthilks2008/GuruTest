@@ -13,7 +13,7 @@
     "Authentication": null,
     "TestSteps": [
       {
-        "TempId": 10083,
+        "TempId": 10124,
         "StepNumber": 1,
         "ActionId": 55,
         "ComponentId": 335,
@@ -33,7 +33,7 @@
         "Parameters": [
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2829,
             "TestCase": null,
@@ -46,7 +46,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2830,
             "TestCase": null,
@@ -59,7 +59,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2831,
             "TestCase": null,
@@ -72,7 +72,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2832,
             "TestCase": null,
@@ -85,7 +85,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2833,
             "TestCase": null,
@@ -98,7 +98,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2834,
             "TestCase": null,
@@ -111,7 +111,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2835,
             "TestCase": null,
@@ -124,7 +124,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2836,
             "TestCase": null,
@@ -137,7 +137,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2837,
             "TestCase": null,
@@ -150,7 +150,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2838,
             "TestCase": null,
@@ -163,7 +163,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2839,
             "TestCase": null,
@@ -176,7 +176,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2840,
             "TestCase": null,
@@ -189,7 +189,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2841,
             "TestCase": null,
@@ -202,7 +202,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2842,
             "TestCase": null,
@@ -215,7 +215,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10083,
+            "TestCaseStepId": 10124,
             "ComponentId": 335,
             "ComponentStepId": 2843,
             "TestCase": null,
@@ -236,7 +236,7 @@
         "Modified": null
       },
       {
-        "TempId": 10082,
+        "TempId": 10123,
         "StepNumber": 2,
         "ActionId": 55,
         "ComponentId": 334,
@@ -256,7 +256,7 @@
         "Parameters": [
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10082,
+            "TestCaseStepId": 10123,
             "ComponentId": 334,
             "ComponentStepId": 2844,
             "TestCase": null,
@@ -269,7 +269,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10082,
+            "TestCaseStepId": 10123,
             "ComponentId": 334,
             "ComponentStepId": 2845,
             "TestCase": null,
@@ -282,7 +282,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10082,
+            "TestCaseStepId": 10123,
             "ComponentId": 334,
             "ComponentStepId": 2846,
             "TestCase": null,
@@ -295,7 +295,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10082,
+            "TestCaseStepId": 10123,
             "ComponentId": 334,
             "ComponentStepId": 2847,
             "TestCase": null,
@@ -308,7 +308,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10082,
+            "TestCaseStepId": 10123,
             "ComponentId": 334,
             "ComponentStepId": 2848,
             "TestCase": null,
@@ -321,7 +321,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10082,
+            "TestCaseStepId": 10123,
             "ComponentId": 334,
             "ComponentStepId": 2849,
             "TestCase": null,
@@ -334,7 +334,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10082,
+            "TestCaseStepId": 10123,
             "ComponentId": 334,
             "ComponentStepId": 2850,
             "TestCase": null,
@@ -347,7 +347,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10082,
+            "TestCaseStepId": 10123,
             "ComponentId": 334,
             "ComponentStepId": 2851,
             "TestCase": null,
@@ -360,7 +360,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10082,
+            "TestCaseStepId": 10123,
             "ComponentId": 334,
             "ComponentStepId": 2852,
             "TestCase": null,
@@ -373,7 +373,7 @@
           },
           {
             "TestCaseId": 207,
-            "TestCaseStepId": 10082,
+            "TestCaseStepId": 10123,
             "ComponentId": 334,
             "ComponentStepId": 2853,
             "TestCase": null,
@@ -385,6 +385,33 @@
             "Modified": null
           }
         ],
+        "Assertions": [],
+        "qTestStepId": null,
+        "WaitForCondition": null,
+        "TimeoutWaitForCondition": 0,
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      },
+      {
+        "TempId": 10122,
+        "StepNumber": 3,
+        "ActionId": 47,
+        "ComponentId": null,
+        "CustomActionId": null,
+        "StepSectionId": 2,
+        "ObjectDictionaryId": null,
+        "ImageRepositoryId": null,
+        "LocatorTypeId": null,
+        "Screenshot": false,
+        "SkipStep": false,
+        "Description": null,
+        "Locator": null,
+        "Value": "2",
+        "Status": "Pending",
+        "UserSays": null,
+        "BotSays": null,
+        "Parameters": [],
         "Assertions": [],
         "qTestStepId": null,
         "WaitForCondition": null,
